@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_circles">
+        <item>3 circles</item>
+        <item>5 circles</item>
+        <item>7 circles</item>
+        <item>9 circles</item>
+        <item>11 circles</item>
+    </string-array>
+
+    <string-array name="number_circles_values">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+        <item>11</item>
+    </string-array>
+</resources>

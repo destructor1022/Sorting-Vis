@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="root_preference">
+
+    <PreferenceCategory
+        android:title="Animation Time">
+        <SeekBarPreference
+            android:defaultValue="50"
+            android:key="animation_time"
+            android:max="100"
+            android:title="300 ms" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Number of Circles">
+        <SeekBarPreference
+            android:defaultValue="4"
+            android:key="number_circles_value"
+            android:max="4"
+            android:title="11 Circles" />
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>
